@@ -12,7 +12,11 @@ KubeCon + CloudNativeCon + Open Source Summit China 2019 由蚂蚁金服举办�
 
 - Cloud Mesh Demo：https://github.com/sofastack-guides/kc-cloud-mesh-demo 
 
-- SOFAStack Demo：https://github.com/sofastack-guides/kc-sofastack-demo 
+- SOFAStack Demo：
+  
+  - Quickly build microservices with SOFAStack：https://github.com/sofastack-guides/kc-sofastack-demo 
+  
+  - SOFABoot dynamic module practice： https://github.com/sofastack-guides/kc-sofastack-dynamic-demo
 
 - SAS Serverless Demo: https://github.com/sofastack-guides/kc-serverless-demo 
 
