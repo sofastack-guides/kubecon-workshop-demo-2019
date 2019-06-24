@@ -10,7 +10,6 @@ KubeCon + CloudNativeCon + Open Source Summit China 2019 由蚂蚁金服举办�
 
 下面是此次 Workshop 的 Demo 索引，您可以在这些仓库中找到代码示例和文档。
 
-- Cloud Mesh Demo：https://github.com/sofastack-guides/kc-cloud-mesh-demo 
 
 - SOFAStack Demo：
   
@@ -18,6 +17,9 @@ KubeCon + CloudNativeCon + Open Source Summit China 2019 由蚂蚁金服举办�
   
   - SOFABoot dynamic module practice： https://github.com/sofastack-guides/kc-sofastack-dynamic-demo
 
+- Seata 分布式事务 Demo: https://github.com/sofastack-guides/kc-seata-demo
+
 - SAS Serverless Demo: https://github.com/sofastack-guides/kc-serverless-demo 
 
-- Seata 分布式事务 Demo: https://github.com/sofastack-guides/kc-seata-demo
+- Cloud Mesh Demo：https://github.com/sofastack-guides/kc-cloud-mesh-demo 
+
